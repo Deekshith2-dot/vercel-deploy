@@ -1,0 +1,65 @@
+DEEKSHITH CHAKILAM — Full Stack Al Developer
+(Python + Flutter)
+
+SUMMARY
+
+Full Stack Al Developer skilled in building end to end GenAl applications using Python (FastAPI,
+RAG, FAISS, LLMs) and Flutter for high quality front end UI. 1+ year of professional Flutter
+experience combined with hands_ on expertise in LLMs, embeddings, vector databases, semantic
+search, and Chat-with-PDF systems. Strong understanding of Retrieval Augmented Generation (RAG)
+and deploying Al apps with modern tools.
+
+SKILLS
+
+Al & GenAl: LLMs (Grog, OpenAl), RAG, Embeddings, FAISS, Semantic Search, Prompt Engineering,
+Vector Databases
+
+Python Backend: FastAPI, REST APIs, PDF Processing, SentenceTransformers, NumPy
+
+Frontend: Flutter, Dart, Ul/UX, State Management
+
+Tools: Git, GitHub, Postman, VS Code, Android Studio
+
+Other Languages: Java, MySQL
+
+PROJECTS
+
+1. Chat-with-PDF RAG Assistant (Python + FastAPI + FAISS)
+
+Built a full RAG pipeline capable of answering questions from any PDF. Implemented chunking,
+embeddings with SentenceTransformers, FAISS similarity search, and LLM powered answer
+generation. Exposed as REST API and tested with Flutter UI.
+
+2. Al Chatbot (Groq LLM)
+Developed a multi turn conversational chatbot using Groq’s LLM API with system prompts, context
+memory, and streaming response handling.
+
+3. Semantic Search Engine
+Implemented FAISS vector database to store and retrieve embeddings. Created meaning based
+search across documents with top k similarity ranking.
+
+4. Al Text Summarizer
+Built summarizer using LLM completions supporting short, medium, long and bullet point summaries.
+
+5. Flutter + Al Frontend
+Developed a ChatGPT style UI in Flutter that integrates with Al backend, supports PDF upload,
+displays chat history, and renders Al responses.
+
+EXPERIENCE
+
+Flutter Developer — 1 Year
+
+¢ Built and maintained cross platform mobile apps for internal and client use.
+
+¢ Implemented user interfaces following clean architecture and reusable widget patterns.
+
+¢ Integrated REST APIs, optimized performance, and delivered responsive UI experiences.
+¢ Worked with Java backend for CRUD operations and MySQL DB.
+
+EDUCATION
+B.Tech — Computer Science (Year)
+
+
+Portfolio available upon request. Open to Al Engineer, Full Stack Al Developer, and GenAl roles.
+
+
