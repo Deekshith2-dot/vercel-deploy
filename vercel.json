@@ -1,13 +1,13 @@
 {
   "functions": {
     "api/app.py": {
-      "runtime": "@vercel/python@3.5.0"
+      "runtime": "python3.12"
     }
   },
   "routes": [
     {
       "src": "/(.*)",
-      "dest": "api/app.py"
+      "dest": "/api/app.py"
     }
   ]
 }
